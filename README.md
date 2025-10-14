@@ -1,5 +1,4 @@
 # Portfolio
-Potfolio
 💡 About Me
 
 I have a degree in Psychology and am a Data Analyst, with experience in education, data analysis, project management, and technology. Throughout my career, I have combined a human approach with analytics and innovation, participating in projects ranging from data visualization and BI to mentoring and training in digital tools.
@@ -18,3 +17,45 @@ Currently, I continue my training in cloud services, automation, and low-code, s
 🎯 Interests
 
 Digital transformation, educational innovation, analytics applied to human behavior, BI, and data-driven culture.
+
+# 💡 Repository
+
+## 📊 Power BI Dashboards
+
+### 📈 HR Dashboard
+![HR Dashboard](https://github.com/LauraFrey11/Portfolio/blob/main/HRDashboard.jpg)
+(https://github.com/LauraFrey11/Portfolio/blob/main/IHRDashboard2.jpg)
+(https://github.com/LauraFrey11/Portfolio/blob/main/HRDashboard3.jpg)
+Shows metrics on active HR and overall performance.
+**Tech:** Power BI
+
+### 💼 Marketing Dashboard
+![Marketing Dashboard](https://github.com/LauraFrey11/Portfolio/blob/main/MarketingDashboard.jpg)
+(https://github.com/LauraFrey11/Portfolio/blob/main/MarketingDashboard2.jpg)
+(https://github.com/LauraFrey11/Portfolio/blob/main/MarketingDashboard3.jpg)
+(https://github.com/LauraFrey11/Portfolio/blob/main/MarketingDashboard4.jpg)
+Dynamic sales and customer report connected to real-time databases.
+**Tech:** Power BI
+
+---
+
+## 🤖 Artificial Intelligence
+
+### 🧩 AI Customer Service Assistant for IG
+![AI Assistant](https://github.com/LauraFrey11/Portfolio/blob/main/IG%20Chatwoot.jpg)
+An agent who answers customer questions using AI in your Instagram DMs.
+**Tech:** n8n + OpenAI + Instagram
+
+### 🧠 Smart Sales Assistant
+![AI Assistant](https://github.com/LauraFrey11/Portfolio/blob/main/Agente%20de%20Ventas.jpg)
+An agent who answers customer questions using AI, selling products and saving the data in your CRM.
+**Tech:** n8n + OpenAI + CRM
+
+---
+
+## 🔄 Automations
+
+### ⚙️ Proposal Generator
+![AI Assistant](https://github.com/LauraFrey11/Portfolio/blob/main/Mails%20template%20flow.jpg)
+Agente que Automatiza campañas de mails.  
+**Tech:** n8n + HTML 
