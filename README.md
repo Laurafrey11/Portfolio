@@ -24,16 +24,18 @@ Digital transformation, educational innovation, analytics applied to human behav
 
 ### 📈 HR Dashboard
 ![HR Dashboard](https://github.com/LauraFrey11/Portfolio/blob/main/HRDashboard.jpg)
-(https://github.com/LauraFrey11/Portfolio/blob/main/IHRDashboard2.jpg)
-(https://github.com/LauraFrey11/Portfolio/blob/main/HRDashboard3.jpg)
+![HR Dashboard](https://github.com/LauraFrey11/Portfolio/blob/main/IHRDashboard2.jpg)
+![HR Dashboard](https://github.com/LauraFrey11/Portfolio/blob/main/HRDashboard3.jpg)
+
 Shows metrics on active HR and overall performance.
 **Tech:** Power BI
 
 ### 💼 Marketing Dashboard
 ![Marketing Dashboard](https://github.com/LauraFrey11/Portfolio/blob/main/MarketingDashboard.jpg)
-(https://github.com/LauraFrey11/Portfolio/blob/main/MarketingDashboard2.jpg)
-(https://github.com/LauraFrey11/Portfolio/blob/main/MarketingDashboard3.jpg)
-(https://github.com/LauraFrey11/Portfolio/blob/main/MarketingDashboard4.jpg)
+![Marketing Dashboard](https://github.com/Laurafrey11/Portfolio/blob/main/MarketingDashboard4.jpg)
+![Marketing Dashboard](https://github.com/LauraFrey11/Portfolio/blob/main/MarketingDashboard3.jpg)
+![Marketing Dashboard](https://github.com/LauraFrey11/Portfolio/blob/main/MarketingDashboard4.jpg)
+
 Dynamic sales and customer report connected to real-time databases.
 **Tech:** Power BI
 
@@ -43,11 +45,13 @@ Dynamic sales and customer report connected to real-time databases.
 
 ### 🧩 AI Customer Service Assistant for IG
 ![AI Assistant](https://github.com/LauraFrey11/Portfolio/blob/main/IG%20Chatwoot.jpg)
+
 An agent who answers customer questions using AI in your Instagram DMs.
 **Tech:** n8n + OpenAI + Instagram
 
 ### 🧠 Smart Sales Assistant
 ![AI Assistant](https://github.com/LauraFrey11/Portfolio/blob/main/Agente%20de%20Ventas.jpg)
+
 An agent who answers customer questions using AI, selling products and saving the data in your CRM.
 **Tech:** n8n + OpenAI + CRM
 
@@ -57,5 +61,6 @@ An agent who answers customer questions using AI, selling products and saving th
 
 ### ⚙️ Proposal Generator
 ![AI Assistant](https://github.com/LauraFrey11/Portfolio/blob/main/Mails%20template%20flow.jpg)
+
 Agente que Automatiza campañas de mails.  
 **Tech:** n8n + HTML 
