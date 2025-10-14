@@ -24,7 +24,7 @@ Digital transformation, educational innovation, analytics applied to human behav
 
 ### 📈 HR Dashboard
 ![HR Dashboard](https://github.com/LauraFrey11/Portfolio/blob/main/HRDashboard.jpg)
-![HR Dashboard](https://github.com/LauraFrey11/Portfolio/blob/main/IHRDashboard2.jpg)
+![HR Dashboard](https://github.com/Laurafrey11/Portfolio/blob/main/HRDashboard2.jpg)
 ![HR Dashboard](https://github.com/LauraFrey11/Portfolio/blob/main/HRDashboard3.jpg)
 
 Shows metrics on active HR and overall performance.
@@ -32,7 +32,7 @@ Shows metrics on active HR and overall performance.
 
 ### 💼 Marketing Dashboard
 ![Marketing Dashboard](https://github.com/LauraFrey11/Portfolio/blob/main/MarketingDashboard.jpg)
-![Marketing Dashboard](https://github.com/Laurafrey11/Portfolio/blob/main/MarketingDashboard4.jpg)
+![Marketing Dashboard](https://github.com/Laurafrey11/Portfolio/blob/main/MarketingDashboard2.jpg)
 ![Marketing Dashboard](https://github.com/LauraFrey11/Portfolio/blob/main/MarketingDashboard3.jpg)
 ![Marketing Dashboard](https://github.com/LauraFrey11/Portfolio/blob/main/MarketingDashboard4.jpg)
 
