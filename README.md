@@ -9,9 +9,12 @@ Currently, I continue my training in cloud services, automation, and low-code, s
 
 🔧 Specialties
 
-📊 Data Analytics | Business Intelligence | Power BI | Tableau | Looker | Python |SQL
+📊 Data Analytics | Business Intelligence | Power BI | Tableau | Looker | Python | SQL
+
 🤖 Power Platform | Automations | Azure | Google Cloud | N8N | AI
+
 🧠 Organizational Psychology | Training | Talent Management
+
 🎓 Education | Mentoring | Digital Skills Development
 
 🎯 Interests
