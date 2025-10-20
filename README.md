@@ -3,13 +3,13 @@
 
 I have a degree in Psychology and am a Data Analyst, with experience in education, data analysis, project management, and technology. Throughout my career, I have combined a human approach with analytics and innovation, participating in projects ranging from data visualization and BI to mentoring and training in digital tools.
 
-I am passionate about the intersection of people, data, and technology: how information can improve processes, decisions, and experiences. I have worked in academic, corporate, and public environments, driving digital transformation processes, designing interactive dashboards, and training in Power BI, Tableau, Power Platform, and Fabric.
+I am passionate about the intersection of people, data, and technology: how information can improve processes, decisions, and experiences. I have worked in academic, corporate, and public environments, driving digital transformation processes, designing interactive dashboards, and training in Power BI, Tableau, Looker, Power Platform, and Fabric.
 
 Currently, I continue my training in cloud services, automation, and low-code, seeking to integrate data analysis, UX, and organizational strategy to generate impact and sustainable value.
 
 🔧 Specialties
 
-📊 Data Analytics | Business Intelligence | Power BI | Tableau | SQL
+📊 Data Analytics | Business Intelligence | Power BI | Tableau | Looker | Python |SQL
 🤖 Power Platform | Automations | Azure | Google Cloud | N8N | AI
 🧠 Organizational Psychology | Training | Talent Management
 🎓 Education | Mentoring | Digital Skills Development
@@ -74,6 +74,12 @@ An agent who answers customer questions using AI, selling products and saving th
 
 Agente que Automatiza campañas de mails.  
 **Tech:** n8n + HTML 
+
+### 🧾​ Pdf to Sheet
+![pdf to sheet](https://github.com/LauraFrey11/Portfolio/blob/main/pdf%20to%20sheet.jpg)
+
+Agente que lee las facturas, las pasa a un documento y las mueve a carpeta de procesados.  
+**Tech:** n8n + PDF + Google + Open AI 
 
 ### 💻​ App Script Sheet
 ![App Script Sheet](https://github.com/LauraFrey11/Portfolio/blob/main/App%20Script%20Sheet.jpg)
