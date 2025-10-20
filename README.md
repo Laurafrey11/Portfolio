@@ -41,6 +41,17 @@ Dynamic sales and customer report connected to real-time databases.
 
 ---
 
+## 📊 Looker Dashboard
+
+### 📈 Marketing Dashboard
+![Marketing Dashboard](https://github.com/LauraFrey11/Portfolio/blob/main/Looker1.jpg)
+![Marketing Dashboard](https://github.com/Laurafrey11/Portfolio/blob/main/Looker2.jpg)
+
+Shows metrics on Marketing and overall performance.
+**Tech:** Looker 
+
+---
+
 ## 🤖 Artificial Intelligence
 
 ### 🧩 AI Customer Service Assistant for IG
@@ -64,3 +75,9 @@ An agent who answers customer questions using AI, selling products and saving th
 
 Agente que Automatiza campañas de mails.  
 **Tech:** n8n + HTML 
+
+### 💻​ App Script Sheet
+![App Script Sheet](https://github.com/LauraFrey11/Portfolio/blob/main/App%20Script%20Sheet.jpg)
+
+Clean up data.
+**Tech:** Google Sheet
