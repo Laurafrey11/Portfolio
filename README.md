@@ -72,13 +72,13 @@ An agent who answers customer questions using AI, selling products and saving th
 ### ⚙️ Proposal Generator
 ![AI Assistant](https://github.com/LauraFrey11/Portfolio/blob/main/Mails%20template%20flow.jpg)
 
-Agente que Automatiza campañas de mails.  
+An agent who automatize email campaings. 
 **Tech:** n8n + HTML 
 
 ### 🧾​ Pdf to Sheet
 ![pdf to sheet](https://github.com/LauraFrey11/Portfolio/blob/main/pdf%20to%20sheet.jpg)
 
-Agente que lee las facturas, las pasa a un documento y las mueve a carpeta de procesados.  
+An agent who reads invoices, transfers them to a document, and moves them to a processed folder.
 **Tech:** n8n + PDF + Google + Open AI 
 
 ### 💻​ App Script Sheet
