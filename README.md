@@ -44,8 +44,8 @@ Dynamic sales and customer report connected to real-time databases.
 ## 📊 Looker Dashboard
 
 ### 📈 Marketing Dashboard
-![Marketing Dashboard](https://github.com/LauraFrey11/Portfolio/blob/main/Looker1.jpg)
-![Marketing Dashboard](https://github.com/Laurafrey11/Portfolio/blob/main/Looker2.jpg)
+![Looker1]([https://github.com/LauraFrey11/Portfolio/blob/main/Looker1.jpg)
+![looker2](https://github.com/Laurafrey11/Portfolio/blob/main/looker2.jpg)
 
 Shows metrics on Marketing and overall performance.
 **Tech:** Looker 
