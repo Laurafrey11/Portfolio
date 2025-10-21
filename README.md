@@ -89,3 +89,68 @@ An agent who reads invoices, transfers them to a document, and moves them to a p
 
 Clean up data.
 **Tech:** Google Sheet
+
+### 💻​ SQL Procedure
+USE YourDatabaseName;
+GO
+
+CREATE OR ALTER PROCEDURE sp_GetMonthlySalesGrowthByCategory
+    @Year INT
+AS
+BEGIN
+    SET NOCOUNT ON;
+
+    /*
+    =============================================================
+     Author: Laura
+     Project: SQL Portfolio – Sales Analytics
+     Date: 2025-10-21
+
+     Description:
+        This stored procedure returns monthly total sales by
+        category and calculates the percentage growth compared
+        to the previous month.
+
+     Parameters:
+        @Year INT – The year to analyze.
+
+     Output Columns:
+        - Category               (VARCHAR)
+        - Month                  (YYYY-MM)
+        - TotalSales             (DECIMAL)
+        - GrowthPercent          (% change from previous month)
+
+     Formula:
+        ((CurrentMonth - PreviousMonth) / PreviousMonth) * 100
+    =============================================================
+    */
+
+    ;WITH MonthlySales AS (
+        SELECT 
+            c.CategoryName AS Category,
+            FORMAT(v.SaleDate, 'yyyy-MM') AS [Month],
+            SUM(v.Quantity * p.Price) AS TotalSales
+        FROM Sales v
+        INNER JOIN Products p ON v.ProductID = p.ProductID
+        INNER JOIN Categories c ON p.CategoryID = c.CategoryID
+        WHERE YEAR(v.SaleDate) = @Year
+        GROUP BY c.CategoryName, FORMAT(v.SaleDate, 'yyyy-MM')
+    )
+    SELECT 
+        Category,
+        [Month],
+        TotalSales,
+        ROUND(
+            CASE 
+                WHEN LAG(TotalSales) OVER (PARTITION BY Category ORDER BY [Month]) = 0 
+                    THEN NULL
+                ELSE 
+                    ((TotalSales - LAG(TotalSales) OVER (PARTITION BY Category ORDER BY [Month])) 
+                    / LAG(TotalSales) OVER (PARTITION BY Category ORDER BY [Month])) * 100
+            END, 2
+        ) AS GrowthPercent
+    FROM MonthlySales
+    ORDER BY Category, [Month];
+
+END;
+GO
