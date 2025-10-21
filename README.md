@@ -91,15 +91,14 @@ Clean up data.
 **Tech:** Google Sheet
 
 ### 💻​ SQL Procedure
+
 USE YourDatabaseName;
 GO
-
 CREATE OR ALTER PROCEDURE sp_GetMonthlySalesGrowthByCategory
     @Year INT
 AS
 BEGIN
     SET NOCOUNT ON;
-
     /*
     =============================================================
      Author: Laura
@@ -151,6 +150,6 @@ BEGIN
         ) AS GrowthPercent
     FROM MonthlySales
     ORDER BY Category, [Month];
-
 END;
 GO
+
