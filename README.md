@@ -90,15 +90,33 @@ An agent who reads invoices, transfers them to a document, and moves them to a p
 Clean up data.
 **Tech:** Google Sheet
 
-### 💻​ SQL Procedure
+### 💻​ SQL Stored Procedure: `sp_GetMonthlySalesGrowthByCategory`
 
+**Platform:** Microsoft SQL Server (T-SQL 2017+)  
+**Purpose:** Returns monthly sales totals by category and calculates the percentage growth compared to the previous month.
+
+---
+
+## 🧩 Description
+
+This stored procedure is designed for business analytics and portfolio demonstrations.  
+It aggregates total monthly sales per product category and computes the month-over-month growth percentage.  
+Useful for dashboards, reports, or showcasing analytical SQL capabilities.
+
+---
+
+## 📘 Procedure Definition
+
+```sql
 USE YourDatabaseName;
 GO
+
 CREATE OR ALTER PROCEDURE sp_GetMonthlySalesGrowthByCategory
     @Year INT
 AS
 BEGIN
     SET NOCOUNT ON;
+
     /*
     =============================================================
      Author: Laura
@@ -106,18 +124,17 @@ BEGIN
      Date: 2025-10-21
 
      Description:
-        This stored procedure returns monthly total sales by
-        category and calculates the percentage growth compared
-        to the previous month.
+        Returns monthly total sales by category and calculates 
+        the percentage growth compared to the previous month.
 
      Parameters:
         @Year INT – The year to analyze.
 
      Output Columns:
-        - Category               (VARCHAR)
-        - Month                  (YYYY-MM)
-        - TotalSales             (DECIMAL)
-        - GrowthPercent          (% change from previous month)
+        - Category        (VARCHAR)
+        - Month           (YYYY-MM)
+        - TotalSales      (DECIMAL)
+        - GrowthPercent   (% change from previous month)
 
      Formula:
         ((CurrentMonth - PreviousMonth) / PreviousMonth) * 100
@@ -150,6 +167,8 @@ BEGIN
         ) AS GrowthPercent
     FROM MonthlySales
     ORDER BY Category, [Month];
+
 END;
 GO
+
 
