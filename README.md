@@ -33,13 +33,18 @@ Digital transformation, educational innovation, analytics applied to human behav
 Shows metrics on active HR and overall performance.
 **Tech:** Power BI
 
-### 💼 Marketing Dashboard
+### 🌈​ Marketing Dashboard
 ![Marketing Dashboard](https://github.com/LauraFrey11/Portfolio/blob/main/MarketingDashboard.jpg)
-![Marketing Dashboard](https://github.com/Laurafrey11/Portfolio/blob/main/MarketingDashboard2.jpg)
-![Marketing Dashboard](https://github.com/LauraFrey11/Portfolio/blob/main/MarketingDashboard3.jpg)
-![Marketing Dashboard](https://github.com/LauraFrey11/Portfolio/blob/main/MarketingDashboard4.jpg)
+![Marketing Dashboard](https://github.com/Laurafrey11/Portfolio/blob/main/MarketingDashboard1.jpg)
+![Marketing Dashboard](https://github.com/LauraFrey11/Portfolio/blob/main/MarketingDashboard2.jpg)
 
 Dynamic sales and customer report connected to real-time databases.
+**Tech:** Power BI
+
+### 💼 Labor Dashboard
+![Labor Dashboard](https://github.com/LauraFrey11/Portfolio/blob/main/Labor%20Schedule.jpg)
+
+Labor assign hours analysis.
 **Tech:** Power BI
 
 ---
