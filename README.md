@@ -95,6 +95,15 @@ An agent who reads invoices, transfers them to a document, and moves them to a p
 Clean up data.
 **Tech:** Google Sheet
 
+### 💻​ Forecast with Python:
+![ForecastSales](https://github.com/LauraFrey11/Portfolio/blob/main/ForecastSales.jpg)
+![ForecastCantidad](https://github.com/LauraFrey11/Portfolio/blob/main/ForecastCantidad.jpg)
+
+Forecast for sales and quantity made with a python script
+🔗 Full script: [forecast_lightgbm.py](./forecast_lightgbm.py)
+
+**Tech:** Python + Power BI + Json for theme
+
 ### 💻​ SQL Stored Procedure: `sp_GetMonthlySalesGrowthByCategory`
 
 **Platform:** Microsoft SQL Server (T-SQL 2017+)  
