@@ -99,8 +99,8 @@ Clean up data.
 ![ForecastSales](https://github.com/LauraFrey11/Portfolio/blob/main/ForecastSales.jpg)
 ![ForecastCantidad](https://github.com/LauraFrey11/Portfolio/blob/main/ForecastCantidad.jpg)
 
-Forecast for sales and quantity made with a python script
-🔗 Full script: [forecast_lightgbm.py](./forecast_lightgbm.py)
+Forecast for sales and quantity made with a Python script.  
+🔗 **Full script:** [forecast_script_pro.py](https://github.com/Laurafrey11/Portfolio/blob/main/forecast_script_pro.py)
 
 **Tech:** Python + Power BI + Json for theme
 
