@@ -23,6 +23,26 @@ Digital transformation, educational innovation, analytics applied to human behav
 
 # 💡 Repository
 
+### 📋 Tabla de Contenidos
+
+- [Specialties](#specialties)
+- [Interests](#interests)
+- [Repository](#repository)
+  - [Power BI Dashboards](#power-bi-dashboards)
+    - [HR Dashboard](#hr-dashboard)
+    - [Marketing Dashboard](#marketing-dashboard)
+  - [Artificial Intelligence](#artificial-intelligence)
+    - [AI Customer Service Assistant for IG](#ai-customer-service-assistant-for-ig)
+    - [Smart Sales Assistant](#smart-sales-assistant)
+  - [Automations](#automations)
+    - [Proposal Generator](#proposal-generator)
+    - [Pdf to Sheet](#pdf-to-sheet)
+    - [App Script Sheet](#app-script-sheet)
+    - [Forecast with Python and Fabric](#forecast-with-python-and-fabric)
+    - [SQL Stored Procedure](#sql-stored-procedure-sp_getmonthlysalesgrowthbycategory)
+
+---
+
 ## 📊 Power BI Dashboards
 
 ### 📈 HR Dashboard
