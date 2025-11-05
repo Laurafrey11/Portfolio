@@ -95,14 +95,15 @@ An agent who reads invoices, transfers them to a document, and moves them to a p
 Clean up data.
 **Tech:** Google Sheet
 
-### 💻​ Forecast with Python:
+### 💻​ Forecast with Python and Fabric:
 ![ForecastSales](https://github.com/LauraFrey11/Portfolio/blob/main/ForecastSales.jpg)
 ![ForecastCantidad](https://github.com/LauraFrey11/Portfolio/blob/main/ForecastCantidad.jpg)
+![FabricProject](https://github.com/LauraFrey11/Portfolio/blob/main/FabricProject.jpg)
 
 Forecast for sales and quantity made with a Python script.  
 🔗 **Full script:** [forecast_script_pro.py](https://github.com/Laurafrey11/Portfolio/blob/main/forecast_script_pro.py)
 
-**Tech:** Python + Power BI + Json for theme
+**Tech:** Python + Power BI + Json for theme + Fabric
 
 ### 💻​ SQL Stored Procedure: `sp_GetMonthlySalesGrowthByCategory`
 
