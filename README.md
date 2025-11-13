@@ -115,6 +115,12 @@ An agent who reads invoices, transfers them to a document, and moves them to a p
 Clean up data.
 **Tech:** Google Sheet
 
+### 💻​ Pipeline with Fabric:
+![Fabric1](https://github.com/LauraFrey11/Portfolio/blob/main/Fabric1.jpg)
+![Fabric2](https://github.com/LauraFrey11/Portfolio/blob/main/Fabric2.jpg)
+
+**Tech:** Fabric
+
 ### 💻​ Forecast with Python and Fabric:
 ![ForecastSales](https://github.com/LauraFrey11/Portfolio/blob/main/ForecastSales.jpg)
 ![ForecastCantidad](https://github.com/LauraFrey11/Portfolio/blob/main/ForecastCantidad.jpg)
